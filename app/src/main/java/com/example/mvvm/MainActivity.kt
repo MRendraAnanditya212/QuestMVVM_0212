@@ -1,4 +1,4 @@
-package com.example.myarsitekturmvvm
+package com.example.mvvm
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,7 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import com.example.mvvm.ui.theme.MVVMTheme
-import com.example.myarsitekturmvvm.view.uicontroller.SiswaApp
+import com.example.mvvm.view.uicontroller.SiswaApp
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
