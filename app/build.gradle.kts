@@ -51,6 +51,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
 
     implementation(libs.lifecycle.viewmodel.compose)
+    implementation(libs.lifecycle.runtime.compose)
     
 
 
