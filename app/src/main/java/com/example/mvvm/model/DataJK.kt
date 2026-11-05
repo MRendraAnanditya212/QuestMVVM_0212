@@ -1,6 +1,6 @@
-package com.example.mvvm.model
+package com.example.myarsitekturmvvm.model
 
-import com.example.mvvm.R
+import com.example.myarsitekturmvvm.R
 
 object DataJK {
     val JenisK= listOf(
